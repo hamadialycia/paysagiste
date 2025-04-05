@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Terrasses & Patios</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Terrasses & Patios</h1>
+  </header>
+  <main>
+    <section class="service-description">
+      <h2>Description du service</h2>
+      <p>
+        Nous construisons des terrasses et des patios personnalisés, parfaits pour profiter de votre extérieur en toute saison.
+      </p>
+    </section>
+    <section class="gallery">
+      <h2>Exemples de réalisations</h2>
+      <div class="images">
+        <img src="images/terrasse4.jpg" alt="Terrasse rustique sous les arbres">
+        <img src="images/terrasse5.jpg" alt="Patio cosy avec guirlande lumineuse">
+      </div>
+    </section>
+    <div class="retour">
+      <a href="index.html">← Retour à la page d’accueil</a>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2025 Lucas Jardins - Tous droits réservés</p>
+  </footer>
+</body>
+</html>
